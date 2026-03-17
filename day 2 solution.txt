@@ -1,0 +1,119 @@
+QUANTUMNIQUE PLACEMENT ENGINE
+DAY 2 – FULL TRAINING PLAN
+===========================================
+
+BLOCK 1 – APTITUDE (Profit & Loss)
+
+Question 1
+A shopkeeper buys a book for ₹400 and sells it for ₹480.
+Find the profit percentage.
+
+profit=sp-cp
+=480-400=80
+profit%=sp-cp/cp*100
+=80/400*100
+=20%
+
+Question 2
+A man buys a watch for ₹1500 and sells it for ₹1200.
+Find the loss percentage.
+
+loss=cp-sp
+=1500-1200=300
+loss=cp-sp/cp*100
+=300/1500*100
+=20%
+
+Question 3
+A trader marks a product 20% above the cost price and gives a 10% discount.
+Find the final profit percentage.
+
+mar=20%
+cp=?
+dis=10%
+cp=100
+dis=10%of120
+=10/100*120
+dis=12
+sp=mar-dis
+=120-12
+=8
+pro=pro*100/cp
+pro=sp-cp
+=108-100
+pro=8%
+
+
+Question 4
+If the cost price of 5 pens is ₹100, what is the selling price of each pen to make 25% profit?
+
+cp=100/5=20
+peofit%=profit+100/100=sp/cp
+=25+100/100=20/x
+=125/100=20/x
+=1.25*20=x
+x=25%
+
+Question 5
+A product is sold for ₹900 with a 10% loss.
+Find the cost price.
+
+loss%=loss-100/100=sp/cp
+=10-100/100=900/cp
+=90/100=900/x
+=10*100=x
+x=1000
+===========================================
+BLOCK 2 – VERBAL ABILITY
+
+Reading Passage
+
+Software development is evolving rapidly with the rise of cloud computing and
+artificial intelligence. Companies are now building scalable systems that can
+handle millions of users simultaneously.
+
+Questions
+
+1. What technologies are influencing software development?
+
+   cloud computing and artificial intelligence technologies are influencing software development
+2. Why are scalable systems important?
+
+      Building a scalable system that can handle a millions of user.
+   
+3. What does "scalable" mean in software systems?
+
+Grammar Correction
+
+1. He don't like programming.
+    
+   He does not like programming.
+
+2. She have submitted the assignment.
+    
+   She has submitted the assignment.
+
+3. They was discussing the project.
+    
+   They were discussing the project.
+
+===========================================
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 2–3 minutes on:
+
+Explain Your Final Year Project
+
+Include:
+- Project title
+- Problem statement
+- Technologies used
+- Your role in the project
+- Challenges faced
+
+   I did a project name Student management protal using react.
+To store a student details, marks,name,total.Show total nummber of student and average persent.
+Technology used HTML,CSS,React.js.Then add a analytics to show an single student data with chart to identify their level of performance.
+
+
+   
