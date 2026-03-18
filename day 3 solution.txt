@@ -1,0 +1,97 @@
+QUANTUMNIQUE PLACEMENT ENGINE
+DAY 3 – FULL TRAINING PLAN
+===========================================
+
+BLOCK 1 – APTITUDE (Ratio & Proportion)
+
+Question 1
+If the ratio of A:B is 3:5 and B:C is 2:3, find A:C.
+a/c=a/b*b/c
+a/c=3/5*2/3
+a/c=3*2/5*3
+a/c=6/15
+a/c=6/3*3/15
+a/c=2:5
+
+Question 2
+Divide ₹1000 in the ratio 2:3:5.
+2+3+5=10
+percent=1000/10*100
+2*100=200
+3*100=300
+5*100=500
+200,300,500
+
+Question 3
+If 4 pens cost ₹40, what is the cost of 10 pens?
+pen=4/40=10
+10*10=100
+
+Question 4
+The ratio of boys to girls in a class is 3:2. If total students = 50, find number of girls.
+3+2=5
+50/5=10
+3*10=30
+2*10=20
+girls=20
+
+Question 5
+If A:B = 4:7 and B = 21, find A.
+a/b=4/7
+a/21=4/7
+a=4/7*21
+a=12
+
+===========================================
+BLOCK 2 – VERBAL ABILITY
+
+Reading Passage
+
+Data structures are essential for efficient problem solving. Choosing the
+right data structure can significantly improve performance.
+
+Questions
+
+1. Why are data structures important?
+
+     Data Structure important is essential foe efficient to solve the program.
+
+2. What happens if we choose the wrong data structure?
+   
+    If we choose the worng data structure its decrease their performance.
+
+3. What does performance mean in programming?
+    
+    improving new set of things.
+
+Grammar Correction
+
+1. He go to college daily.
+
+   He goes to college daily.
+
+2. She don’t likes coding.
+
+   She does not likes coding.
+
+3. We was solving problems.
+
+   We were solving problems.
+
+
+===========================================
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 2–3 minutes on:
+
+Your Strengths and Weaknesses
+
+Include:
+- 2 strengths
+- 1 weakness
+- How you are improving
+
+
+    My strenght is easily adopt with people.Creating some own creation of new story.
+weakness is no.Improving my technical skills day by day.Then try to understand whats happening in
+program flow.Something learning new topic and share with friends.
