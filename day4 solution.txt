@@ -1,0 +1,109 @@
+QUANTUMNIQUE PLACEMENT ENGINE
+DAY 4 – FULL TRAINING PLAN (TOUGHER LEVEL)
+===========================================
+
+BLOCK 1 – APTITUDE (Time & Work – Moderate)
+
+Question 1
+A can complete a work in 10 days and B in 15 days. How long will they take together?
+
+1/10+1/15=2/10+3/15=5/30
+1/6
+=6 days
+
+
+Question 2
+A, B and C can complete a work in 6, 8 and 12 days respectively.
+How many days will they take working together?
+
+=2+3+4/24
+=9/24
+=3/8
+=2.67
+=2 days
+
+Question 3
+A alone can do a work in 12 days. After 4 days, B joins and completes remaining work in 4 days.
+Find time taken by B alone.
+12/4=4 
+4*1/12=1/3
+1-1/3=2/3
+2/3/4=1/6
+1/6-1/12=2-1/12
+=1/12
+b=12 days
+
+Question 4
+If 5 workers can complete a work in 8 days, how many workers are required to complete it in 4 days?
+
+5*8=40 days
+4/40=10
+=10 workers
+
+Question 5
+A pipe fills a tank in 6 hours and another empties it in 8 hours.
+How long to fill the tank?
+
+1/6-1/8=3-4/24
+= 1/24hours
+=24 hours
+
+===========================================
+BLOCK 2 – VERBAL ABILITY (Advanced)
+
+Reading Passage
+
+Efficient algorithms and optimized systems are critical in large-scale applications.
+Companies like Amazon and Google rely heavily on scalable architectures.
+
+Questions
+
+1. Why are optimized systems important?
+         faster and efficient algorithms used.
+     
+2. What does scalability mean in real-world applications?
+        System can handle user large-scale application.
+
+3. Name companies that depend on scalable systems.
+        Amazon and google companies that depend on scalable system.
+
+
+
+Grammar Correction
+
+1. He didn’t knew the answer.
+    he didnt know the answer
+2. She is more smarter than him.
+    she is smarter than him
+3. They has completed the task.
+    they have completed the task
+
+===========================================
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain a technical concept (e.g., Arrays / DBMS / OS)
+
+Include:
+- Definition
+- Real-world example
+- Use case
+
+ARRAYS:
+collection of similar data type to store data,memory allocation
+array store like:arr[10,20,30,40]
+to store the data set.
+
+
+DBMS:
+to store a data,create and manage the data, reterive the data
+to store the data set
+login system ,student data ,admin system
+
+
+OS
+interface users between hardware and software data.
+laptop,mobile,tap
+memory storage, run program
+
