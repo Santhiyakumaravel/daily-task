@@ -1,0 +1,97 @@
+
+BLOCK 1 – APTITUDE (Speed, Time & Distance)
+
+Question 1
+A train travels 60 km in 1 hour. What is its speed in m/s?
+
+1 km/h=185​ m/s
+60×185​=16.67 m/s
+16.67 m/s
+
+Question 2
+A car travels at 40 km/h for 2 hours and 60 km/h for next 2 hours.
+Find average speed.
+
+Average Speed=Total/TimeTotal Distance​
+Distance1=40×2=80km
+Distance2=60×2=120km
+Total Distance=200km
+Total Time=4hours
+4200​=50km/h
+=50km/h
+
+Question 3
+Two trains moving in opposite directions at 50 km/h and 70 km/h.
+Find relative speed.
+
+Relative Speed=Speed1​+Speed2​
+50+70=120km/h
+120km/h
+
+Question 4
+A person walks at 5 km/h and runs at 10 km/h.
+Find time taken to cover 15 km if half distance is walked and half is run.
+
+Total distance=15km
+Half=7.5km
+Walking time=7.5/5=1.5hr
+Running time=7.5/10=0.75hr
+Total Time=1.5+0.75=2.25 hr
+2.25 hours
+
+Question 5
+If a train crosses a pole in 10 seconds and its length is 100 meters,
+find its speed.
+
+Speed=Time/Distance
+Distance=Train length=100m
+Time=10sec
+Speed=10/100​=10m/s
+10×5/18​=36 km/h
+10 m/s
+
+===========================================
+BLOCK 2 – VERBAL ABILITY (Advanced)
+
+Reading Passage
+
+Algorithms play a crucial role in optimizing system performance.
+Efficient algorithms reduce execution time and resource consumption.
+
+Questions
+
+1. Why are algorithms important?
+Algorithms play a crucial role in optimizing system performance.
+2. What happens if inefficient algorithms are used?
+Efficient algorithms reduce execution time and resource consumption.
+3. What is optimization in computing?
+Making a program or system work better, faster, and more efficiently
+
+Grammar Correction
+
+1. He have been working here since 2 years.
+He has been working here since 2 years.
+2. She did not wrote the code.
+She did not write the code.
+3. They is preparing for interviews.
+They are preparing for interviews.
+
+===========================================
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain a recent technical topic you learned
+
+Include:
+- Concept explanation
+- Example
+- Real-world use
+
+Data Analytic
+concept:using powerBI tools to analyze the chart ,that shows an visualized formate 
+that can easy to understand the concept.mostly used in business concept profit and loss easily
+example:avg,total
+real-world:we used in our daily life like, which app we using more, by we analyze by the chart in settings.
+	​
+
