@@ -1,0 +1,68 @@
+In how many ways can 3 students be selected from 7 students?
+
+7C3​=3!(7−3)!/7!​
+=3×2×1/7×6×5​
+=35
+=35 ways
+
+Question 2
+How many 2-digit numbers can be formed using digits 1, 2, 3, 4 without repetition?
+4*3=12
+12 number
+
+Question 3
+In how many ways can a captain and vice-captain be chosen from 6 players?
+
+6P2​=6×5=30
+30ways
+
+Question 4
+How many different arrangements can be made using the letters of the word MATH?
+
+4!=4×3×2×1=24
+24 arrangement
+
+Question 5
+A committee of 4 members is to be formed from 8 people. In how many ways can it be formed?
+
+
+8C4​=4×3×2×1/8×7×6×5​=70
+70ways
+===========================================
+BLOCK 2 – VERBAL ABILITY (Advanced)
+
+Reading Passage
+
+Databases are at the heart of modern applications. Efficient storage,
+retrieval, and management of data are essential for building scalable
+software products. Companies rely on well-designed databases to ensure
+data consistency and performance.
+
+Questions
+
+1. Why are databases important in modern applications?
+
+database important in modern application is efficient storage, retrieval, and management of data
+
+2. What does data consistency mean?
+
+data consistency is that well designed data bases to ensure data consistency.
+
+3. Why do companies need well-designed databases?
+
+Companies rely on well-designed databases to ensure
+data consistency and performance.
+
+Grammar Correction
+
+1. She do not understand SQL joins.
+
+ She does not understand SQL joins.
+
+2. He were explaining the database schema.
+
+ He was explaining the database schema.
+
+3. They has written the program successfully.
+
+They have written the program successfully.
