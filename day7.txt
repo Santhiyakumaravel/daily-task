@@ -1,0 +1,85 @@
+QUANTUMNIQUE PLACEMENT ENGINE
+DAY 7 – FULL TRAINING PLAN (INTERVIEW FOCUSED)
+===========================================
+
+BLOCK 1 – APTITUDE (Probability)
+
+Question 1
+What is the probability of getting a head when tossing a coin?
+tot 2=(H,T)
+H=1
+ANS=1/2
+Question 2
+What is the probability of getting a number greater than 4 when rolling a dice?
+6(1,2,3,4,5,6)
+2(5,6)=OUTCOME
+2/6=1/3
+ANS=1/3
+
+Question 3
+A bag contains 3 red balls and 2 blue balls.
+Find probability of picking a red ball.
+B=2,R=3
+2+3=5/3
+5/3
+
+Question 4
+If two coins are tossed, what is probability of getting two heads?
+TOT 4=(HH,HT,TH,TT)
+2 H=1
+ANS=1/4
+
+Question 5
+Probability of selecting a vowel from the word ENGINEER.
+ENGINEER=EIEE
+4/8=1/4
+ANS=1/4
+
+===========================================
+BLOCK 2 – VERBAL ABILITY (Advanced)
+
+Reading Passage
+
+Operating systems manage hardware resources and provide services for computer programs.
+Efficient OS design ensures better performance, memory management, and process scheduling.
+
+Questions
+
+1. What is the main role of an operating system?
+ANS:to act as an intermediary between the user and the hardware
+
+2. Why is memory management important?
+ANS:It ensures that multiple programs can run at once without crashing into each other
+
+3. What is process scheduling?
+ANS:the OS decides which program gets to use the CPU and for how long.
+
+Grammar Correction
+
+1. He don’t know operating systems.
+ANS:He does not know operating systems.
+2. She were learning data structures.
+ANS:She was learning data structures.
+3. They has solved the problem.
+ANS:They have solved the problem.
+
+===========================================
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain how the Internet works
+
+Include:
+- What happens when you type a URL
+its tracing a IP address ,to secure a data like http,https sources.
+- DNS
+ It first checks its own memory (cache) and your computer's OS to
+ see if it already knows the IP address from a previous visit.
+- Server
+If using https, a TLS/SSL Handshake occurs to encrypt your
+ data, ensuring privacy
+- Response
+The browser sends an HTTP GET Request to the server, asking 
+for specific files (like HTML, CSS, or images).
+===========================================
