@@ -1,0 +1,108 @@
+QUANTUMNIQUE PLACEMENT ENGINE
+DAY 9 – FULL TRAINING PLAN (INTERVIEW FOCUSED)
+===========================================
+
+BLOCK 1 – APTITUDE (Time & Work)
+
+Question 1
+A can complete a work in 10 days and B in 15 days.
+How many days will they take together?
+A=10days
+1 day work=1/10
+B= 15days
+1 day work=1/15
+10/1​+15/1​=30/3+2​=30/5​=6/1​
+=6 days
+
+Question 2
+A alone can do a work in 12 days.
+After working for 4 days, B joins and work finishes in 4 more days.
+Find B's efficiency.
+1 day work=1/12
+A in 4 days:
+4×12/1​=3/1
+1−3/1​=3/2​​
+2/3/4=2/12=1/6
+a+b=1/6
+b=1/6-1/12=1/12
+b=12 days
+
+Question 3
+If 5 people can complete a work in 20 days,
+how many people are needed to complete the work in 10 days?
+5 peop=20 days
+5*20=100
+100/10=10 days
+10 peop
+
+Question 4
+A is twice as efficient as B.
+If B takes 12 days to complete work, how many days will A take?
+b=12 days=1/12
+2*1/12=1/6
+=6 days
+
+Question 5
+Pipe A fills a tank in 6 hours and Pipe B fills in 8 hours.
+How long will both take together?
+
+Pipe A=6hrs-1/6
+Pipe B=8hrs-1/8
+1/6+1/8=4+3/24=7/24
+24/7
+
+===========================================
+BLOCK 2 – VERBAL ABILITY
+
+Reading Passage
+
+Algorithms are step-by-step procedures used to solve problems efficiently.
+Good algorithms reduce time complexity and memory usage.
+Efficient algorithms are very important in software development.
+
+Questions
+
+1. What is an algorithm?
+Algorithms are step-by-step procedures
+
+2. Why are efficient algorithms important?
+They save time and reduce memory usage.
+
+3. What do algorithms help reduce?
+Time complexity and memory usage.
+
+Grammar Correction
+
+1. She don’t like programming.
+She doesn’t like programming.
+
+2. He have written the code.
+He has written the code.
+
+3. They is working on algorithms.
+They are working on algorithms.
+
+===========================================
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain what happens when you run a program
+
+Include:
+- Compilation / Interpretation
+the program goes through compilation or interpretation.
+ In languages like Java, the code is compiled into
+ bytecode using a compiler.
+
+- Memory allocation
+memory allocation takes place. The system allocates 
+memory in RAM for variables, objects, and execution processes.
+
+- Execution
+Then comes execution. The CPU starts executing the instructions line by line.
+
+- Output
+the program produces output. This output can be displayed on the screen,
+ stored in a file.
+===========================================
